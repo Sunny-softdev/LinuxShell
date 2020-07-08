@@ -8,3 +8,9 @@ gedit filename.txt
 
 3. To identfy free space in the memory
 free -h
+
+4. Copy all the content from one folder to another:
+
+cd Destination_folder
+
+cp -r ../Source_folder/*.
