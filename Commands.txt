@@ -5,3 +5,6 @@ cat /proc/cpuinfo | grep cores
 2. To open text file with gedit editor
 
 gedit filename.txt
+
+3. To identfy free space in the memory
+free -h
