@@ -1,3 +1,7 @@
 1. To identify number of cores in a system:
 
 cat /proc/cpuinfo | grep cores
+
+2. To open text file with gedit editor
+
+gedit filename.txt
