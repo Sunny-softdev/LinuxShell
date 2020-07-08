@@ -14,3 +14,5 @@ free -h
 cd Destination_folder
 
 cp -r ../Source_folder/*.
+
+5. Test
